@@ -1,4 +1,3 @@
-```markdown
 # HeadStarter AI Apprenticeship Project 1 - Personal Website
 
 ## Overview
@@ -9,24 +8,24 @@ This repository contains the source code for my personal portfolio website, show
 
 - **Responsive Design:** The website is fully responsive, ensuring it looks great on all devices, from desktops to mobile phones.
 - **Portfolio Showcase:** A dedicated section displaying some of my notable projects, each with a brief description and a link to the GitHub repository or live demo.
-- **Interactive Elements:** Includes hover effects on project images and a "Show More" button to dynamically display additional projects.
+- **Interactive Elements:** Includes hover effects on project images and a "Show More" button to display additional projects dynamically.
 - **About Me Section:** Provides an overview of my background, skills, and interests.
-- **Contact Form:** A simple contact form for visitors to reach out to me via email.
+- **Contact Form:** A simple contact form for visitors to email me.
 - **Technologies Used:** The site highlights the technologies I work with, using logos for easy identification.
 
 ## Technologies Used
 
 - **HTML5 & CSS3:** For structuring and styling the website.
-- **JavaScript:** For interactive features, such as the "Show More" button and hover effects on project images.
+- **JavaScript:** For interactive features like the "Show More" button and hover effects on project images.
 - **jQuery:** To enhance the interactivity and manage some DOM manipulations.
-- **Font Awesome:** For icons used in the navigation menu and contact section.
+- **Font Awesome:** For icons in the navigation menu and contact section.
 - **Custom CSS Animations:** To create smooth transitions and hover effects.
 
 ## Project Structure
 
-- **index.html:** The main HTML file containing the structure of the website.
+- **index.html:** The main HTML file containing the website's structure.
 - **assets/css/main.css:** The main CSS file for styling the website.
-- **assets/images/**: Directory containing all the images used in the website, including project thumbnails and logos.
+- **assets/images/**: A directory containing all the images used on the website, including project thumbnails and logos.
 - **assets/js/**: Directory containing JavaScript files, including custom scripts for interactive features.
 
 ## How to Run the Project
@@ -35,7 +34,7 @@ To view the portfolio website locally:
 
 1. Clone this repository to your local machine using:
    ```bash
-   git clone https://github.com/SumitRodrigues/portfolio-website.git
+   git clone https://github.com/SumitRodrigues/HeadStarter-AI-Apprenticeship-Project-1-Personal-Website.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -45,12 +44,12 @@ To view the portfolio website locally:
 
 ## Customization
 
-- You can easily update the content in `index.html` to include your own projects, skills, and contact information.
-- The images in the `assets/images/` directory can be replaced with your own project thumbnails or logos.
+- You can easily update the content in `index.html` to include your projects, skills, and contact information.
+- The images in the `assets/images/` directory can replace your project thumbnails or logos.
 
 ## License
 
-This project is open-source and available under the MIT License. Feel free to use and modify it as per your needs.
+This project is open-source and available under the MIT License. Feel free to use and modify it as you need.
 
 ## Contact
 
