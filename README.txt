@@ -1,10 +1,10 @@
-# HeadStarter AI Apprenticeship Project 1 - Personal Website
+#HeadStarter AI Apprenticeship Project 1 - Personal Website
 
-## Overview
+# Overview
 
 This repository contains the source code for my personal portfolio website, showcasing my projects and providing information about my skills, experience, and background. The website is designed to be responsive and visually appealing, with interactive features to enhance the user experience.
 
-## Features
+# Features
 
 - **Responsive Design:** The website is fully responsive, ensuring it looks great on all devices, from desktops to mobile phones.
 - **Portfolio Showcase:** A dedicated section displaying some of my notable projects, each with a brief description and a link to the GitHub repository or live demo.
@@ -13,7 +13,7 @@ This repository contains the source code for my personal portfolio website, show
 - **Contact Form:** A simple contact form for visitors to reach out to me via email.
 - **Technologies Used:** The site highlights the technologies I work with, using logos for easy identification.
 
-## Technologies Used
+# Technologies Used
 
 - **HTML5 & CSS3:** For structuring and styling the website.
 - **JavaScript:** For interactive features, such as the "Show More" button and hover effects on project images.
