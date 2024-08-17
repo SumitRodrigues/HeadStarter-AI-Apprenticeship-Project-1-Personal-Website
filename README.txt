@@ -1,19 +1,20 @@
-#HeadStarter AI Apprenticeship Project 1 - Personal Website
+```markdown
+# HeadStarter AI Apprenticeship Project 1 - Personal Website
 
-# Overview
+## Overview
 
 This repository contains the source code for my personal portfolio website, showcasing my projects and providing information about my skills, experience, and background. The website is designed to be responsive and visually appealing, with interactive features to enhance the user experience.
 
-# Features
+## Features
 
 - **Responsive Design:** The website is fully responsive, ensuring it looks great on all devices, from desktops to mobile phones.
 - **Portfolio Showcase:** A dedicated section displaying some of my notable projects, each with a brief description and a link to the GitHub repository or live demo.
-- **Interactive Elements:** Includes a hover effect on project images and a "Show More" button to display additional projects dynamically.
+- **Interactive Elements:** Includes hover effects on project images and a "Show More" button to dynamically display additional projects.
 - **About Me Section:** Provides an overview of my background, skills, and interests.
 - **Contact Form:** A simple contact form for visitors to reach out to me via email.
 - **Technologies Used:** The site highlights the technologies I work with, using logos for easy identification.
 
-# Technologies Used
+## Technologies Used
 
 - **HTML5 & CSS3:** For structuring and styling the website.
 - **JavaScript:** For interactive features, such as the "Show More" button and hover effects on project images.
@@ -35,9 +36,7 @@ To view the portfolio website locally:
 1. Clone this repository to your local machine using:
    ```bash
    git clone https://github.com/SumitRodrigues/portfolio-website.git
-
-```markdown
-
+   ```
 2. Navigate to the project directory:
    ```bash
    cd portfolio-website
@@ -58,4 +57,4 @@ This project is open-source and available under the MIT License. Feel free to us
 If you have any questions or would like to collaborate, feel free to reach out to me via [email](mailto:sumitrod11@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/sumit-rodrigues).
 ```
 
-This `README.md` snippet gives clear instructions on how to run and customize the project, includes licensing information, and provides contact details.
+This `README.md` format is organized, clear, and visually appealing, making it easy for others to understand the project and how to use or contribute to it.
