@@ -1,37 +1,61 @@
-Strongly Typed by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# HeadStarter AI Apprenticeship Project 1 - Personal Website
 
+## Overview
 
-This is Strongly Typed, a new site template with a minimal, semi-retro
-look (inspired by old instruction manuals) and, as you might guess from its
-name, a strong emphasis on type. It's fully responsive, built on HTML5/CSS3,
-and includes styling for all basic page elements. Demo images* are courtesy of
-regularjane, an incredibly talented photographer friend of mine. Be sure to
-check out more of her work over at deviantART:
+This repository contains the source code for my personal portfolio website, showcasing my projects and providing information about my skills, experience, and background. The website is designed to be responsive and visually appealing, with interactive features to enhance the user experience.
 
-http://regularjane.deviantart.com/
+## Features
 
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Jane's work without her explicit permission!)
+- **Responsive Design:** The website is fully responsive, ensuring it looks great on all devices, from desktops to mobile phones.
+- **Portfolio Showcase:** A dedicated section displaying some of my notable projects, each with a brief description and a link to the GitHub repository or live demo.
+- **Interactive Elements:** Includes a hover effect on project images and a "Show More" button to display additional projects dynamically.
+- **About Me Section:** Provides an overview of my background, skills, and interests.
+- **Contact Form:** A simple contact form for visitors to reach out to me via email.
+- **Technologies Used:** The site highlights the technologies I work with, using logos for easy identification.
 
-As usual, feedback, bug reports, and comments are not only welcome, but strongly
-encouraged :)
+## Technologies Used
 
-AJ
-aj@lkn.io | @ajlkn
+- **HTML5 & CSS3:** For structuring and styling the website.
+- **JavaScript:** For interactive features, such as the "Show More" button and hover effects on project images.
+- **jQuery:** To enhance the interactivity and manage some DOM manipulations.
+- **Font Awesome:** For icons used in the navigation menu and contact section.
+- **Custom CSS Animations:** To create smooth transitions and hover effects.
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+## Project Structure
 
+- **index.html:** The main HTML file containing the structure of the website.
+- **assets/css/main.css:** The main CSS file for styling the website.
+- **assets/images/**: Directory containing all the images used in the website, including project thumbnails and logos.
+- **assets/js/**: Directory containing JavaScript files, including custom scripts for interactive features.
 
-Credits:
+## How to Run the Project
 
-	Demo Images:
-		regularjane (regularjane.deviantart.com)
+To view the portfolio website locally:
 
-	Icons:
-		Font Awesome (fontawesome.io)
+1. Clone this repository to your local machine using:
+   ```bash
+   git clone https://github.com/SumitRodrigues/portfolio-website.git
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+```markdown
+
+2. Navigate to the project directory:
+   ```bash
+   cd portfolio-website
+   ```
+3. Open the `index.html` file in your web browser.
+
+## Customization
+
+- You can easily update the content in `index.html` to include your own projects, skills, and contact information.
+- The images in the `assets/images/` directory can be replaced with your own project thumbnails or logos.
+
+## License
+
+This project is open-source and available under the MIT License. Feel free to use and modify it as per your needs.
+
+## Contact
+
+If you have any questions or would like to collaborate, feel free to reach out to me via [email](mailto:sumitrod11@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/sumit-rodrigues).
+```
+
+This `README.md` snippet gives clear instructions on how to run and customize the project, includes licensing information, and provides contact details.
